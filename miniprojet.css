@@ -1,0 +1,24 @@
+body{
+	font-family: Verdana
+	}
+	}
+	header{
+	background-color: #444  
+	}
+	content{
+	background-color: white
+	}
+	footer{
+	background-color: black
+	}
+	header,footer{
+    background-color: white;
+	border: 1px solid grey;
+	margin:8px;
+	padding:5px;
+	}
+    section{
+        background-color: #ddd
+
+    }
+	.tt{ font-style:}        
